@@ -68,6 +68,7 @@ footer a {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
-.titulos {
-    color: #899ec5;
+header, footer{color:rgb(140, 176, 190)}
+.titulo{color:rgb(127, 166, 182)}
+.titulo2{color:rgb(127, 166, 182)
 }
