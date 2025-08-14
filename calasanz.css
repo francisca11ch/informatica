@@ -1,11 +1,20 @@
 h1{
-    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xxx-large;
+    color:rgb(73, 68, 56);
 }
 h2{
-    color:blue;
+   font-size: xx-large;
+    color:rgb(71, 64, 50);
 }
 /*selector de clase*/
 .oscuro {
-   background-color: black;
+    font-size: large;
+background-color: rgb(109, 97, 81);
    color: white;
+}
+/*selector ID*/
+#biografía {
+    background-color: rgb(218, 205, 181);
+    color:rgb(0, 0, 0);
 }
