@@ -16,3 +16,4 @@ function jugar() {
         resultado.style.color = "red";
     }
 }
+
